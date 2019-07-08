@@ -10,6 +10,7 @@ const Header = ({ siteTitle }) => (
       <Link to="/">Courses</Link>
       <Link to="/">Downloads</Link>
       <Link to="/">Workshops</Link>
+      <Link to="/">Sign In</Link>
       <Link to="/"><button>Buy</button></Link>
     </div>
   </div>
