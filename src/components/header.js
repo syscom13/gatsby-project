@@ -17,7 +17,7 @@ class Header extends React.Component {
     this.handleScroll)
   }
 
-  handleScroll = event => {
+  handleScroll = () => {
     const scrollTop = window.pageYOffset
 
     if (scrollTop > 50) {

@@ -1,0 +1,52 @@
+{
+    "cells": [
+        {
+            "title": "Intro to React",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-1.png"
+        },
+        {
+            "title": "Basic Styling in CSS",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-2.png"
+        },
+        {
+            "title": "Adaptive Layout with CSS Grid",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-3.png"
+        },
+        {
+            "title": "Interactions and Animations",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-4.png"
+        },
+        {
+            "title": "SVG Animations",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-5.png"
+        },
+        {
+            "title": "Components and Props",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-6.png"
+        },
+        {
+            "title": "States and Events",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-7.png"
+        },
+        {
+            "title": "Styled Components",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-8.png"
+        },
+        {
+            "title": "Static Data with JSON",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-9.png"
+        },
+        {
+            "title": "GraphQL with Contentful",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-10.png"
+        },
+        {
+            "title": "Publish to Netflify",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-11.png"
+        },
+        {
+            "title": "Payment with Stripe Checkout",
+            "image": "https://res.cloudinary.com/dhw2cqn8e/image/upload/v1562591993/gatsby-new/react-logo-12.png"
+        }
+    ]
+}
