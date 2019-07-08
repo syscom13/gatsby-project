@@ -18,26 +18,25 @@
 
 .Card img {
     position: absolute;
-    right: 50%;
-    transform: translateX(50%);
+    top: 0;
     height: 110%;
     z-index: -1;
     transition: all .8s cubic-bezier(.2, .8, .2, 1);
 }
 
 .Card:hover img {
-    transform: translate(50%, -20px);
+    transform: translateY(-20px);
 }
 
 .Card h3 {
-    font-size: 3rem;
+    font-size: 2.4rem;
     color: white;
     margin: 20px 0 0 20px;
     width: 190px;
 }
 
 .Card p {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     text-transform: uppercase;
     font-weight: 600;
     color: rgba(255, 255, 255, .8);

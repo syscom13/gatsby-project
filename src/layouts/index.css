@@ -23,7 +23,7 @@ a:visited {
 
 .Hero {
   height: 920px;
-  background: url('../images/wallpaper0.jpg');
+  background: url('../images/wallpaper0.jpg'), #08113F;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -154,13 +154,12 @@ a:visited {
   background: linear-gradient(104.74deg, #4B26FF 0%, #B01EFF 100%);
   box-shadow: 0px 10px 20px rgba(101, 41, 255, 0.15);
   border-radius: 100px;
-  transition: all .5s cubic-bezier(.2, .8, .2, 1);
+  transition: all .8s cubic-bezier(.2, .8, .2, 1);
 }
 
 .btn:hover {
-  background: linear-gradient(104.74deg, #B01EFF 0%, #4B26FF 100%);
-  transform: translateY(-3px);
-  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.35);
 }
 
 .ActionSub {
@@ -191,9 +190,15 @@ a:visited {
 .CardGroup {
   margin: 50px 40px 100px;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   grid-gap: 40px;
   justify-items: center;
+}
+
+@media (max-width: 1060px) {
+  .CardGroup {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media (max-width: 960px) {
@@ -202,7 +207,7 @@ a:visited {
   }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 640px) {
   .CardGroup {
     grid-template-columns: repeat(1, 1fr);
   }

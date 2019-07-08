@@ -51,7 +51,7 @@ const IndexPage = () => (
 
       <div className="CardGroup">
         <Card 
-          title="Design System"
+          title="Design System with Figma"
           text="10 sections"
           image={require('../images/wallpaper1.jpg')}
         />
@@ -61,52 +61,52 @@ const IndexPage = () => (
           image={require('../images/wallpaper2.jpg')}
         />
         <Card 
-          title="Sound Design"
-          text="5 sections"
+          title="Video Editing with Screenflow"
+          text="6 sections"
           image={require('../images/wallpaper3.jpg')}
         />
         <Card 
-          title="ARkit 2"
-          text="10 sections"
+          title="Sound Design with Cubase"
+          text="6 sections"
           image={require('../images/wallpaper4.jpg')}
         />
         <Card 
-          title="ARkit 2"
+          title="Build an ARkit 2 app"
           text="10 sections"
           image={require('../images/wallpaper5.jpg')}
         />
         <Card 
-          title="ARkit 2"
-          text="10 sections"
+          title="Motion Design in After Effects"
+          text="8 sections"
           image={require('../images/wallpaper6.jpg')}
         />
         <Card 
-          title="ARkit 2"
-          text="10 sections"
+          title="Create a Sketch plugin"
+          text="7 sections"
           image={require('../images/wallpaper7.jpg')}
         />
         <Card 
-          title="ARkit 2"
+          title="Create a Spritekit game"
           text="10 sections"
           image={require('../images/wallpaper8.jpg')}
         />
         <Card 
-          title="ARkit 2"
+          title="Swift Advanced"
           text="10 sections"
           image={require('../images/wallpaper9.jpg')}
         />
         <Card 
-          title="ARkit 2"
+          title="Learn Swift"
           text="10 sections"
           image={require('../images/wallpaper10.jpg')}
         />
         <Card 
-          title="ARkit 2"
+          title="Learn Sketch"
           text="10 sections"
           image={require('../images/wallpaper11.jpg')}
         />
         <Card 
-          title="ARkit 2"
+          title="Learn iOS Design"
           text="10 sections"
           image={require('../images/wallpaper12.jpg')}
         />
